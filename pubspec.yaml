@@ -1,0 +1,24 @@
+name: video_app
+description: A video app based on MacCMS.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  fijkplayer: ^0.10.1
+  dio: ^4.0.6
+  cached_network_image: ^3.2.3
+  flutter_easyrefresh: ^2.2.1
+  get: ^4.6.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
