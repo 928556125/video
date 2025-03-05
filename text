@@ -1,0 +1,14 @@
+video_app/
+  ├── lib/
+  │   ├── api/
+  │   │   └── video_api.dart
+  │   ├── models/
+  │   │   └── video_model.dart
+  │   ├── pages/
+  │   │   ├── home_page.dart
+  │   │   ├── detail_page.dart
+  │   │   └── player_page.dart
+  │   ├── widgets/
+  │   │   └── video_card.dart
+  │   └── main.dart
+  └── pubspec.yaml
